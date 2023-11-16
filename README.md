@@ -18,3 +18,9 @@ Se buscará registrar nuevos clientes
 Se buscará registrar movimientos como lo sería editar la información de un producto/cliente o llevar a cabo na compra de un artículo.
 
 Se buscara que el programa despliegue el precio total si el usuario quiere saber cuanto costaria adquirir varios articulos
+
+# Correciones
+Se mejoró la sintaxis.
+Se agrego una clase Empresa que guarda la información de los productos y clientes.
+Se agregó la clase Productos de las que heredan Laptops y Celulares para tener una mejor funcionalidad.
+El main se simplificó para que solo mandara a llamar a las demas funciones.
